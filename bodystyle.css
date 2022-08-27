@@ -1,0 +1,38 @@
+.strip1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+
+}
+
+.strip1grid{
+    justify-content: center;
+    padding-left: 340px;
+    padding-right: 340px;
+    display: flex;
+    margin: 20px;
+    
+}
+ .strip1text{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bold;
+ }
+.grid1{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.gridtext{
+    text-align: center;
+    display: flex;
+}
+.gridbox{
+    height:120px;
+    width: 120px;
+    border-radius: 10px;
+    border:3px solid #3882f6;
+}
